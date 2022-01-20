@@ -1,4 +1,5 @@
-# 
+## Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering
+
 This repository provides the source code of "Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering" accepted in TheWebConf (WWW2022) as a research paper.
 
 ### 1. Overview
